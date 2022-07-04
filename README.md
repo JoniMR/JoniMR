@@ -42,7 +42,7 @@ I am currently looking for a first professional opportunity in web development.
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 <b>Resume</b></summary>
 
 
 ## Education
