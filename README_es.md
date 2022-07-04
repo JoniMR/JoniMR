@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-Actualmente estoy buscando una primera oportunidad profesional en el desarrollo de aplicaciones con tecnología web.
+Actualmente estoy buscando una primera oportunidad profesional en el <b>desarrollo de aplicaciones con tecnología web</b>.
 </p>
 
 <p align='center'>
