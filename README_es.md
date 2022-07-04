@@ -3,7 +3,7 @@
 <a href="https://github.com/JoniMR/JoniMR/blob/main/README.md" target="_blank" rel="noopener noreferrer"><img height="22" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" alt="Readme in english"></a></p>
 
 <h1 align='center'>
-  Hola 👋 I'm Jonathan! 👨‍💻
+  Hola 👋 Soy Jonathan, encantado! 👨‍💻
 </h1>
 
 <p align='center'>
