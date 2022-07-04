@@ -55,7 +55,8 @@ Si quieres saber algo más de mí, no dudes en contactarme!
 <img align="right" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-
+<br>
+  
 - 📖 **Certificate of Higher Education - Industrial Automation and Robotics**\
 📆 2019 - 2021
 📍 **I.E.S Salesianos Palma del Río** - Córdoba, Spain
