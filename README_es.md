@@ -7,8 +7,12 @@
 </h1>
 
 <p align='center'>
-  A <b>full stack developer</b> from Málaga (Spain).
+  A full stack developer from Málaga (Spain).
 </p>
+
+<p align='center'>
+I am currently looking for a first professional opportunity at web development.
+  </p>
 
 <p align='center'>
   
