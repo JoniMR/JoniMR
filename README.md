@@ -68,5 +68,3 @@ Si quieres saber algo más de mí, no dudes en contactarme!
 - 👨‍💻 **Arbitrage and Machted Betting specialist**\
 📆 2016 - 2021\
 📍 **Freelance** - Málaga, Spain
-  
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
