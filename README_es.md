@@ -42,7 +42,7 @@ Actualmente estoy buscando una primera oportunidad profesional en el <b>desarrol
 </p>
 
 <details>
-  <summary>📃 CV </summary>
+  <summary>📃 <b>CV</b> </summary>
 
 
 ## Educación
