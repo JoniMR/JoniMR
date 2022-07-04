@@ -7,9 +7,6 @@
 Si quieres saber algo más de mí, no dudes en contactarme!
 
 
--
-
-
 
 <h1 align='center'>
   Hi there 👋 I'm Jonathan! 👨‍💻
@@ -44,11 +41,12 @@ Si quieres saber algo más de mí, no dudes en contactarme!
 
 ## Education
 
+<img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  
 - 📖 **Web Development**\
 📆 2022 - moment
 📍 **I.E.S Campanillas** - Málaga, Spain
   
-  <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 - 📖 **Certificate of Higher Education - Industrial Automation and Robotics**\
 📆 2019 - 2021
