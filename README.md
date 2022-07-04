@@ -47,6 +47,8 @@ Si quieres saber algo más de mí, no dudes en contactarme!
 - 📖 **Web Development**\
 📆 2022 - moment
 📍 **I.E.S Campanillas** - Málaga, Spain
+  
+  <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
 - 📖 **Certificate of Higher Education - Industrial Automation and Robotics**\
 📆 2019 - 2021
@@ -59,7 +61,7 @@ Si quieres saber algo más de mí, no dudes en contactarme!
 📍 **VEREDA SYSTEM SOTECONTROL, S.L** - Málaga, Spain
   
 - 👨‍💻 **Arbitrage and Machted Betting specialist**\
-📆 2021\
+📆 2016 - 2021\
 📍 **Freelance** - Málaga, Spain
   
 <img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
