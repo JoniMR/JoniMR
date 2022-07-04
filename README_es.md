@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://github.com/JoniMR/JoniMRz/blob/main/README.md" target="_blank" rel="noopener noreferrer"><img height="22" src="https://cdn-icons-png.flaticon.com/512/197/197593.png" alt="Readme en español"></a>
+<a href="https://github.com/JoniMR/JoniMR/blob/main/README_es.md" target="_blank" rel="noopener noreferrer"><img height="22" src="https://cdn-icons-png.flaticon.com/512/197/197593.png" alt="Readme en español"></a>
 <a href="https://github.com/JoniMR/JoniMR/blob/main/README_en.md" target="_blank" rel="noopener noreferrer"><img height="22" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" alt="Readme in english"></a></p>
 
 <h1 align='center'>
