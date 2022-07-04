@@ -54,11 +54,11 @@ Si quieres saber algo más de mí, no dudes en contactarme!
   
 ## Experience
 
-- 👨‍💻 **PLC Programmer**\
+- 💻 **PLC Programmer**\
 📆 2021\
 📍 **VEREDA SYSTEM SOTECONTROL, S.L** - Málaga, Spain
   
-  - 👨‍💻 **Arbitrage and Machted Betting specialist**\
+- 👨‍💻 **Arbitrage and Machted Betting specialist**\
 📆 2021\
 📍 **Freelance** - Málaga, Spain
   
