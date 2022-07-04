@@ -4,8 +4,6 @@
 
 ➤ Tengo conocimientos de 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐀𝐧𝐠𝐮𝐥𝐚𝐫, 𝐏𝐇𝐏, 𝐒𝐐𝐋 y servicios en la 𝐧𝐮𝐛𝐞.
 
-➣ Toda mi formación ha ido de la mano de mis tres pasiones: La 𝗺𝘂́𝘀𝗶𝗰𝗮 🎵, la 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮 🤖, y la 𝗶𝗻𝗳𝗼𝗿𝗺𝗮́𝘁𝗶𝗰𝗮 👩‍💻.
-
 Si quieres saber algo más de mí, no dudes en contactarme!
 
 
@@ -46,3 +44,20 @@ Si quieres saber algo más de mí, no dudes en contactarme!
 
 ## Education
 
+- 📖 **Web Development**\
+📆 2022 - moment
+📍 **I.E.S Campanillas** - Málaga, Spain
+
+- 📖 **Certificate of Higher Education - Industrial Automation and Robotics**\
+📆 2019 - 2021
+📍 **I.E.S Salesianos Palma del Río** - Córdoba, Spain
+  
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+
+- 👨‍💻 **PLC Programmer**\
+📆 2021\
+📍 **VEREDA SYSTEM SOTECONTROL, S.L** - Málaga, Spain
+  
+<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
