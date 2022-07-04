@@ -3,16 +3,16 @@
 <a href="https://github.com/JoniMR/JoniMR/blob/main/README.md" target="_blank" rel="noopener noreferrer"><img height="22" src="https://cdn-icons-png.flaticon.com/512/197/197374.png" alt="Readme in english"></a></p>
 
 <h1 align='center'>
-  Hi there 👋 I'm Jonathan! 👨‍💻
+  Hola 👋 I'm Jonathan! 👨‍💻
 </h1>
 
 <p align='center'>
-  A <b>full stack developer</b> from Málaga (Spain).
+  <b>full stack developer</b> en Málaga (España).
 </p>
 
 <p align='center'>
-I am currently looking for a first professional opportunity in web development.
-  </p>
+Actualmente estoy buscando una primera oportunidad profesional en el desarrollo de aplicaciones con tecnología web.
+</p>
 
 <p align='center'>
   
@@ -23,7 +23,7 @@ I am currently looking for a first professional opportunity in web development.
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='jonathanmartinrodriguez@gmail.com'>jonathanmartinrodriguez@gmail.com</a>
+  📫 Contáctame: <a href='jonathanmartinrodriguez@gmail.com'>jonathanmartinrodriguez@gmail.com</a>
 </p>
 
 <p align='center'>
@@ -42,26 +42,26 @@ I am currently looking for a first professional opportunity in web development.
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary>📃 CV </summary>
 
 
-## Education
+## Educación
 
   
-- 📖 **Web Development**\
-📆 2022 - moment
-📍 **I.E.S Campanillas** - Málaga, Spain
+- 📖 **Desarrollo web**\
+📆 2022 - actualidad
+📍 **I.E.S Campanillas** - Málaga, España
 
-- 📖 **Certificate of Higher Education - Industrial Automation and Robotics**\
+- 📖 **Técnico superior en Automatización y Robótica Industrial**\
 📆 2019 - 2021
-📍 **I.E.S Salesianos Palma del Río** - Córdoba, Spain
+📍 **I.E.S Salesianos Palma del Río** - Córdoba, España
   
 ## Experience
 
-- 💻 **PLC Programmer**\
+- 💻 **Programador de PLC**\
 📆 2021\
-📍 **VEREDA SYSTEM SOTECONTROL, S.L** - Málaga, Spain
+📍 **VEREDA SYSTEM SOTECONTROL, S.L** - Málaga, España
   
-- 👨‍💻 **Arbitrage and Machted Betting specialist**\
+- 👨‍💻 **Especialista en Arbitraje y Matched Betting**\
 📆 2016 - 2021\
-📍 **Freelance** - Málaga, Spain
+📍 **Freelance** - Málaga, España
