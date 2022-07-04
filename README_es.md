@@ -7,7 +7,7 @@
 </h1>
 
 <p align='center'>
-  <b>full stack developer</b> en Málaga (España).
+  <b>Full stack developer</b> en Málaga (España).
 </p>
 
 <p align='center'>
