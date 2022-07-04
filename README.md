@@ -16,15 +16,16 @@ Si quieres saber algo más de mí, no dudes en contactarme!
   A full stack developer from Málaga (Spain).
 </p>
 
-
-
-
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/jonathan-martin-rodriguez/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
+</p>
+
+<p align='center'>
+  📫 How to reach me: <a href='jonathanmartinrodriguez@gmail.com'>jonathanmartinrodriguez@gmail.com</a>
 </p>
 
 <p align='center'>
@@ -42,10 +43,6 @@ Si quieres saber algo más de mí, no dudes en contactarme!
 <img align="right" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
  
 <br/><br/>
-
-<p align='center'>
-  📫 How to reach me: <a href='jonathanmartinrodriguez@gmail.com'>jonathanmartinrodriguez@gmail.com</a>
-</p>
 
 <details>
   <summary>📃 Resume</summary>
