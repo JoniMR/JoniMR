@@ -40,8 +40,6 @@ I am currently looking for a first professional opportunity in web development.
 <img height="22" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img height="22" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
- 
-<br/><br/>
 
 <details>
   <summary>📃 Resume</summary>
