@@ -7,7 +7,7 @@
 </h1>
 
 <p align='center'>
-  A **full stack developer** from Málaga (Spain).
+  A <b>full stack developer</b> from Málaga (Spain).
 </p>
 
 <p align='center'>
