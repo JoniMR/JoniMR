@@ -48,7 +48,7 @@ I am currently looking for a first professional opportunity in web development.
 ## Education
 
   
-- 📖 **Web Development**\
+- 📖 **Certificate of Higher Education - Development of Web Applications**\
 📆 2022 - moment
 📍 **I.E.S Campanillas** - Málaga, Spain
 
