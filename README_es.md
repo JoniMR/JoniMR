@@ -48,7 +48,7 @@ Actualmente estoy buscando una primera oportunidad profesional en el <b>desarrol
 ## Educación
 
   
-- 📖 **Desarrollo web**\
+- 📖 **Certificado de profesionalodad - Desarrollo de aplicaciones con tecnologías Web**\
 📆 2022 - actualidad
 📍 **I.E.S Campanillas** - Málaga, España
 
