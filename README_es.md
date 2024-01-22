@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-Actualmente estoy buscando una primera oportunidad profesional en el <b>desarrollo de aplicaciones con tecnología web</b>.
+*Siempre buscando la oportunidad para <b>seguir desarrollándome</b> tanto <b>personal</b>, como <b>profesionalmente</b>.*
 </p>
 
 <p align='center'>
@@ -34,11 +34,11 @@ Actualmente estoy buscando una primera oportunidad profesional en el <b>desarrol
 <img height="22" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img height="22" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img height="22" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img height="22" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img height="22" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img height="22" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)" />
 <img height="22" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img height="22" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img height="22" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <details>
@@ -47,8 +47,11 @@ Actualmente estoy buscando una primera oportunidad profesional en el <b>desarrol
 
 ## Educación
 
+- 📖 **Full Stack Angular 12 - Node.js Bootcamp**\
+📆 2023
+📍 **Babel** - Málaga, Spain
   
-- 📖 **Certificado de profesionalodad - Desarrollo de aplicaciones con tecnologías Web**\
+- 📖 **Certificado de profesionalidad - Desarrollo de aplicaciones con tecnologías Web**\
 📆 2022 - actualidad
 📍 **I.E.S Campanillas** - Málaga, España
 
@@ -57,6 +60,14 @@ Actualmente estoy buscando una primera oportunidad profesional en el <b>desarrol
 📍 **I.E.S Salesianos Palma del Río** - Córdoba, España
   
 ## Experience
+
+- 💻 **Ingeniero de software Full Stack**\
+📆 2023 - Actualmente
+📍 **Santander SCIB** - Málaga, Spain
+
+- 💻 **Ingeniero de software Full Stack**\
+📆 2023
+📍 **Babel** - Málaga, Spain
 
 - 💻 **Programador de PLC**\
 📆 2021\
