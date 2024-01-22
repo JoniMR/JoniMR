@@ -60,11 +60,11 @@
   
 ## Experience
 
-- 💻 **PLC Programmer**\
+- 💻 **Full Stack Software Engineer**\
 📆 2023 - Present
 📍 **Santander SCIB** - Málaga, Spain
 
-- 💻 **Software Engineer**\
+- 💻 **Full Stack Software Engineer**\
 📆 2023
 📍 **Babel** - Málaga, Spain
 
