@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-"I am currently seeking an opportunity to learn and contribute in the field of web development."
+*Always seeking the opportunity to continue <b><developing myself</b> both <b>personally</b> and <b>professionally</b>.*
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/jonathan-martin-rodriguez/">
@@ -37,7 +37,6 @@
 <img height="22" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)" />
 <img height="22" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img height="22" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
 </p>
 
 <details>
@@ -47,32 +46,32 @@
 ## Education
 
 - 📖 **Full Stack Angular 12 - Node.js Bootcamp**\
-📆 2023
+📆 2023\
 📍 **Babel** - Málaga, Spain
   
 - 📖 **Certificate of Higher Education - Development of Web Applications**\
-📆 2022
+📆 2022\
 📍 **I.E.S Campanillas** - Málaga, Spain
 
 - 📖 **Certificate of Higher Education - Industrial Automation and Robotics**\
-📆 2019 - 2021
+📆 2019 - 2021\
 📍 **I.E.S Salesianos Palma del Río** - Córdoba, Spain
   
 ## Experience
 
 - 💻 **Full Stack Software Engineer**\
-📆 2023 - Present
+📆 2023 - Present\
 📍 **Santander SCIB** - Málaga, Spain
 
 - 💻 **Full Stack Software Engineer**\
-📆 2023
+📆 2023\
 📍 **Babel** - Málaga, Spain
 
 - 💻 **PLC Programmer**\
-📆 2021
+📆 2021\
 📍 **VEREDA SYSTEM SOTECONTROL, S.L** - Málaga, Spain
   
 - 👨‍💻 **Arbitrage and Machted Betting specialist**\
-📆 2016 - 2021
+📆 2016 - 2021\
 📍 **Freelance** - Málaga, Spain
 
