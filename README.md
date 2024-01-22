@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='jonathanmartinrodriguez@gmail.com'>jonathanmartinrodriguez@gmail.com</a>
+  📫 Let's Connect and Create Something Amazing! <a href='jonathanmartinrodriguez@gmail.com'>jonathanmartinrodriguez@gmail.com</a>
 </p>
 
 <p align='center'>
