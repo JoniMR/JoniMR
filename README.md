@@ -11,9 +11,7 @@
 </p>
 
 <p align='center'>
-I am currently looking for a first professional opportunity in web development.
-  </p>
-
+"I am currently seeking an opportunity to learn and contribute in the field of web development."  </p>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/jonathan-martin-rodriguez/">
@@ -47,9 +45,12 @@ I am currently looking for a first professional opportunity in web development.
 
 ## Education
 
+- 📖 **Full Stack Angular 12 - Node.js Bootcamp**\
+📆 2023
+📍 **Babel ** - Málaga, Spain
   
 - 📖 **Certificate of Higher Education - Development of Web Applications**\
-📆 2022 - moment
+📆 2022
 📍 **I.E.S Campanillas** - Málaga, Spain
 
 - 📖 **Certificate of Higher Education - Industrial Automation and Robotics**\
@@ -59,10 +60,18 @@ I am currently looking for a first professional opportunity in web development.
 ## Experience
 
 - 💻 **PLC Programmer**\
-📆 2021\
+📆 2023 - Present
+📍 **Santander SCIB** - Málaga, Spain
+
+- 💻 **Software Engineer**\
+📆 2023
+📍 **Babel** - Málaga, Spain
+
+- 💻 **PLC Programmer**\
+📆 2021
 📍 **VEREDA SYSTEM SOTECONTROL, S.L** - Málaga, Spain
   
 - 👨‍💻 **Arbitrage and Machted Betting specialist**\
-📆 2016 - 2021\
+📆 2016 - 2021
 📍 **Freelance** - Málaga, Spain
 
