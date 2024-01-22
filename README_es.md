@@ -52,14 +52,14 @@
 📍 **Babel** - Málaga, Spain
   
 - 📖 **Certificado de profesionalidad - Desarrollo de aplicaciones con tecnologías Web**\
-📆 2022 - actualidad
+📆 2022
 📍 **I.E.S Campanillas** - Málaga, España
 
 - 📖 **Técnico superior en Automatización y Robótica Industrial**\
 📆 2019 - 2021
 📍 **I.E.S Salesianos Palma del Río** - Córdoba, España
   
-## Experience
+## Experiencia
 
 - 💻 **Ingeniero de software Full Stack**\
 📆 2023 - Actualmente
