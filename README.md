@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-*"I am currently seeking an opportunity to learn and contribute in the field of web development."*
+"I am currently seeking an opportunity to learn and contribute in the field of web development."
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/jonathan-martin-rodriguez/">
