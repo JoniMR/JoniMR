@@ -44,7 +44,7 @@
 
 - 📖 **Full Stack Angular 12 - Node.js Bootcamp**\
 📆 2023
-📍 **Babel ** - Málaga, Spain
+📍 **Babel** - Málaga, Spain
   
 - 📖 **Certificate of Higher Education - Development of Web Applications**\
 📆 2022
