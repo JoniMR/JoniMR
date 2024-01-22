@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-*Siempre buscando la oportunidad para <b>seguir desarrollándome</b> tanto <b>personal</b>, como <b>profesionalmente</b>.*
+"Siempre buscando la oportunidad para <b>seguir desarrollándome</b> tanto <b>personal</b>, como <b>profesionalmente</b>."
 </p>
 
 <p align='center'>
