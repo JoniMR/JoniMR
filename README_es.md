@@ -48,25 +48,25 @@
 ## Educación
 
 - 📖 **Full Stack Angular 12 - Node.js Bootcamp**\
-📆 2023
+📆 2023\
 📍 **Babel** - Málaga, Spain
   
 - 📖 **Certificado de profesionalidad - Desarrollo de aplicaciones con tecnologías Web**\
-📆 2022
+📆 2022\
 📍 **I.E.S Campanillas** - Málaga, España
 
 - 📖 **Técnico superior en Automatización y Robótica Industrial**\
-📆 2019 - 2021
+📆 2019 - 2021\
 📍 **I.E.S Salesianos Palma del Río** - Córdoba, España
   
 ## Experiencia
 
 - 💻 **Ingeniero de software Full Stack**\
-📆 2023 - Actualmente
+📆 2023 - Actualmente\
 📍 **Santander SCIB** - Málaga, Spain
 
 - 💻 **Ingeniero de software Full Stack**\
-📆 2023
+📆 2023\
 📍 **Babel** - Málaga, Spain
 
 - 💻 **Programador de PLC**\
