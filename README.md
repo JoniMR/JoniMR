@@ -11,7 +11,7 @@
 </p>
 
 <p align='center'>
-*Always seeking the opportunity to continue <b><developing myself</b> both <b>personally</b> and <b>professionally</b>.*
+*Always seeking the opportunity to continue <b>developing myself</b> both <b>personally</b> and <b>professionally</b>.*
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/jonathan-martin-rodriguez/">
